@@ -1,0 +1,29 @@
+﻿asset_id,file,type,used_for,replacement_hint
+TEX_wallpaper_clean,assets/textures/wallpaper_clean.png,texture,Обычные стены старой квартиры в начале игры,"seamless old faded wallpaper / dusty apartment wall, 2K, PBR optional"
+TEX_wallpaper_cracked,assets/textures/wallpaper_cracked.png,texture,"Стены после роста вины/безумия, трещины и искажение дома","cracked old wallpaper horror, seamless, dark sepia"
+TEX_floor_wood,assets/textures/floor_wood.png,texture,"Деревянный пол гостиной, спальни, коридора и кабинета",old wooden floor planks seamless texture
+TEX_ceiling_dark,assets/textures/ceiling_dark.png,texture,Тёмный потолок для подавленной атмосферы,dark damaged plaster ceiling texture
+TEX_mailbox_metal,assets/textures/mailbox_metal.png,texture,Почтовый ящик — главный интерактивный объект писем,old metal mailbox rusty texture
+TEX_letter_paper,assets/textures/letter_paper.png,texture,"Бумага писем, платье-заглушка, стопки черновиков",aged paper handwritten letter texture
+TEX_photo_frame,assets/textures/photo_frame.png,texture,Фотография Анны на стене,"old photo portrait frame texture, sepia"
+TEX_sofa_fabric,assets/textures/sofa_fabric.png,texture,Диван в гостиной,old dusty sofa fabric texture
+TEX_bed_fabric,assets/textures/bed_fabric.png,texture,Кровать в спальне,old bed sheet fabric dusty texture
+TEX_desk_wood,assets/textures/desk_wood.png,texture,"Столы, тумбы, деревянная мебель",dark old desk wood texture seamless
+TEX_mirror_glass,assets/textures/mirror_glass.png,texture,"Зеркало, осколки стакана, бутылка",old stained mirror glass texture
+TEX_blood_ink,assets/textures/blood_ink.png,texture,Пятна в ванной/на полу при высоком уровне вины,dark blood stain decal transparent PNG
+TEX_door_wood,assets/textures/door_wood.png,texture,Двери и переходы между комнатами,old wooden door texture
+TEX_kitchen_tile,assets/textures/kitchen_tile.png,texture,Пол кухни,old dirty kitchen tile seamless texture
+TEX_bathroom_tile,assets/textures/bathroom_tile.png,texture,Пол/ванна в ванной комнате,old bathroom tile dirty seamless texture
+MOD_mailbox_old,assets/models/mailbox_old.obj,model,"Старый почтовый ящик, главный объект для получения писем",old wall mounted mailbox low poly obj/fbx/gltf
+MOD_sofa_old,assets/models/sofa_old.obj,model,"Диван в гостиной, место бытовых воспоминаний",old soviet apartment sofa low poly
+MOD_coffee_table,assets/models/coffee_table.obj,model,Журнальный стол в гостиной,small old coffee table low poly
+MOD_bed_old,assets/models/bed_old.obj,model,Кровать в спальне Анны,old bed low poly horror apartment
+MOD_dress_folded,assets/models/dress_folded.obj,model,"Платье на кровати, интерактивное воспоминание",folded dress on bed low poly
+MOD_wall_photo_frame,assets/models/wall_photo_frame.obj,model,Фото Анны на стене,wall photo frame low poly
+MOD_mirror_old,assets/models/mirror_old.obj,model,Зеркало с хоррор-воспоминанием,old standing/wall mirror low poly
+MOD_old_phone,assets/models/old_phone.obj,model,Телефон с пропущенными звонками,old landline phone low poly
+MOD_writing_desk,assets/models/writing_desk.obj,model,Письменный стол в кабинете,old writing desk low poly
+MOD_paper_stack,assets/models/paper_stack.obj,model,"Стопка черновиков, раскрывает что герой писал сам",stack of handwritten papers low poly
+MOD_glass_bottle,assets/models/glass_bottle.obj,model,"Пустая бутылка, ключевой объект вины",empty alcohol bottle low poly
+MOD_bathtub,assets/models/bathtub.obj,model,Ванна как место тяжёлого воспоминания,old bathtub low poly dirty
+MOD_anna_shadow,assets/models/anna_shadow.obj,model,Силуэт Анны при высоком безумии/вине,female ghost silhouette low poly transparent plane

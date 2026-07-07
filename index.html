@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Последнее письмо — 3D прототип</title>
+  <link rel="stylesheet" href="src/styles.css" />
+</head>
+<body>
+  <canvas id="game"></canvas>
+
+  <div id="hud">
+    <div class="title">Последнее письмо — 3D прототип</div>
+    <div id="objective">Цель: подойти к старому почтовому ящику и нажать E.</div>
+    <div id="stats">Любовь: 0 · Вина: 0 · Безумие: 0</div>
+    <div class="controls">WASD — ходить · Мышь — осмотр · E — действие · Esc — курсор</div>
+  </div>
+
+  <div id="crosshair">+</div>
+  <div id="prompt"></div>
+
+  <div id="startScreen" class="overlay visible">
+    <div class="panel intro">
+      <h1>Последнее письмо</h1>
+      <p>Ты возвращаешься в старую квартиру. В прихожей скрипит почтовый ящик, хотя дом давно пуст.</p>
+      <p>Каждое письмо меняет комнаты и то, как ты помнишь Анну.</p>
+      <button id="startBtn">Начать</button>
+    </div>
+  </div>
+
+  <div id="letterModal" class="overlay hidden">
+    <div class="panel letter">
+      <h2 id="letterTitle">Письмо</h2>
+      <p id="letterBody"></p>
+      <div id="choices"></div>
+    </div>
+  </div>
+
+  <div id="memoryModal" class="overlay hidden">
+    <div class="panel memory">
+      <h2 id="memoryTitle">Воспоминание</h2>
+      <p id="memoryBody"></p>
+      <button id="memoryClose">Закрыть</button>
+    </div>
+  </div>
+
+  <script src="src/game.js"></script>
+</body>
+</html>

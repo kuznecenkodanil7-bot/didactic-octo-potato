@@ -1,0 +1,17 @@
+{
+  "name": "last-letter-3d-game",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Последнее письмо — статический WebGL-прототип 3D psychological horror для GitHub Pages.",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "python -m http.server 8000"
+  },
+  "keywords": [
+    "webgl",
+    "3d-game",
+    "psychological-horror",
+    "github-pages"
+  ],
+  "license": "MIT"
+}

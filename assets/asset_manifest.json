@@ -1,0 +1,198 @@
+[
+  {
+    "asset_id": "TEX_wallpaper_clean",
+    "file": "assets/textures/wallpaper_clean.png",
+    "type": "texture",
+    "used_for": "Обычные стены старой квартиры в начале игры",
+    "replacement_hint": "seamless old faded wallpaper / dusty apartment wall, 2K, PBR optional"
+  },
+  {
+    "asset_id": "TEX_wallpaper_cracked",
+    "file": "assets/textures/wallpaper_cracked.png",
+    "type": "texture",
+    "used_for": "Стены после роста вины/безумия, трещины и искажение дома",
+    "replacement_hint": "cracked old wallpaper horror, seamless, dark sepia"
+  },
+  {
+    "asset_id": "TEX_floor_wood",
+    "file": "assets/textures/floor_wood.png",
+    "type": "texture",
+    "used_for": "Деревянный пол гостиной, спальни, коридора и кабинета",
+    "replacement_hint": "old wooden floor planks seamless texture"
+  },
+  {
+    "asset_id": "TEX_ceiling_dark",
+    "file": "assets/textures/ceiling_dark.png",
+    "type": "texture",
+    "used_for": "Тёмный потолок для подавленной атмосферы",
+    "replacement_hint": "dark damaged plaster ceiling texture"
+  },
+  {
+    "asset_id": "TEX_mailbox_metal",
+    "file": "assets/textures/mailbox_metal.png",
+    "type": "texture",
+    "used_for": "Почтовый ящик — главный интерактивный объект писем",
+    "replacement_hint": "old metal mailbox rusty texture"
+  },
+  {
+    "asset_id": "TEX_letter_paper",
+    "file": "assets/textures/letter_paper.png",
+    "type": "texture",
+    "used_for": "Бумага писем, платье-заглушка, стопки черновиков",
+    "replacement_hint": "aged paper handwritten letter texture"
+  },
+  {
+    "asset_id": "TEX_photo_frame",
+    "file": "assets/textures/photo_frame.png",
+    "type": "texture",
+    "used_for": "Фотография Анны на стене",
+    "replacement_hint": "old photo portrait frame texture, sepia"
+  },
+  {
+    "asset_id": "TEX_sofa_fabric",
+    "file": "assets/textures/sofa_fabric.png",
+    "type": "texture",
+    "used_for": "Диван в гостиной",
+    "replacement_hint": "old dusty sofa fabric texture"
+  },
+  {
+    "asset_id": "TEX_bed_fabric",
+    "file": "assets/textures/bed_fabric.png",
+    "type": "texture",
+    "used_for": "Кровать в спальне",
+    "replacement_hint": "old bed sheet fabric dusty texture"
+  },
+  {
+    "asset_id": "TEX_desk_wood",
+    "file": "assets/textures/desk_wood.png",
+    "type": "texture",
+    "used_for": "Столы, тумбы, деревянная мебель",
+    "replacement_hint": "dark old desk wood texture seamless"
+  },
+  {
+    "asset_id": "TEX_mirror_glass",
+    "file": "assets/textures/mirror_glass.png",
+    "type": "texture",
+    "used_for": "Зеркало, осколки стакана, бутылка",
+    "replacement_hint": "old stained mirror glass texture"
+  },
+  {
+    "asset_id": "TEX_blood_ink",
+    "file": "assets/textures/blood_ink.png",
+    "type": "texture",
+    "used_for": "Пятна в ванной/на полу при высоком уровне вины",
+    "replacement_hint": "dark blood stain decal transparent PNG"
+  },
+  {
+    "asset_id": "TEX_door_wood",
+    "file": "assets/textures/door_wood.png",
+    "type": "texture",
+    "used_for": "Двери и переходы между комнатами",
+    "replacement_hint": "old wooden door texture"
+  },
+  {
+    "asset_id": "TEX_kitchen_tile",
+    "file": "assets/textures/kitchen_tile.png",
+    "type": "texture",
+    "used_for": "Пол кухни",
+    "replacement_hint": "old dirty kitchen tile seamless texture"
+  },
+  {
+    "asset_id": "TEX_bathroom_tile",
+    "file": "assets/textures/bathroom_tile.png",
+    "type": "texture",
+    "used_for": "Пол/ванна в ванной комнате",
+    "replacement_hint": "old bathroom tile dirty seamless texture"
+  },
+  {
+    "asset_id": "MOD_mailbox_old",
+    "file": "assets/models/mailbox_old.obj",
+    "type": "model",
+    "used_for": "Старый почтовый ящик, главный объект для получения писем",
+    "replacement_hint": "old wall mounted mailbox low poly obj/fbx/gltf"
+  },
+  {
+    "asset_id": "MOD_sofa_old",
+    "file": "assets/models/sofa_old.obj",
+    "type": "model",
+    "used_for": "Диван в гостиной, место бытовых воспоминаний",
+    "replacement_hint": "old soviet apartment sofa low poly"
+  },
+  {
+    "asset_id": "MOD_coffee_table",
+    "file": "assets/models/coffee_table.obj",
+    "type": "model",
+    "used_for": "Журнальный стол в гостиной",
+    "replacement_hint": "small old coffee table low poly"
+  },
+  {
+    "asset_id": "MOD_bed_old",
+    "file": "assets/models/bed_old.obj",
+    "type": "model",
+    "used_for": "Кровать в спальне Анны",
+    "replacement_hint": "old bed low poly horror apartment"
+  },
+  {
+    "asset_id": "MOD_dress_folded",
+    "file": "assets/models/dress_folded.obj",
+    "type": "model",
+    "used_for": "Платье на кровати, интерактивное воспоминание",
+    "replacement_hint": "folded dress on bed low poly"
+  },
+  {
+    "asset_id": "MOD_wall_photo_frame",
+    "file": "assets/models/wall_photo_frame.obj",
+    "type": "model",
+    "used_for": "Фото Анны на стене",
+    "replacement_hint": "wall photo frame low poly"
+  },
+  {
+    "asset_id": "MOD_mirror_old",
+    "file": "assets/models/mirror_old.obj",
+    "type": "model",
+    "used_for": "Зеркало с хоррор-воспоминанием",
+    "replacement_hint": "old standing/wall mirror low poly"
+  },
+  {
+    "asset_id": "MOD_old_phone",
+    "file": "assets/models/old_phone.obj",
+    "type": "model",
+    "used_for": "Телефон с пропущенными звонками",
+    "replacement_hint": "old landline phone low poly"
+  },
+  {
+    "asset_id": "MOD_writing_desk",
+    "file": "assets/models/writing_desk.obj",
+    "type": "model",
+    "used_for": "Письменный стол в кабинете",
+    "replacement_hint": "old writing desk low poly"
+  },
+  {
+    "asset_id": "MOD_paper_stack",
+    "file": "assets/models/paper_stack.obj",
+    "type": "model",
+    "used_for": "Стопка черновиков, раскрывает что герой писал сам",
+    "replacement_hint": "stack of handwritten papers low poly"
+  },
+  {
+    "asset_id": "MOD_glass_bottle",
+    "file": "assets/models/glass_bottle.obj",
+    "type": "model",
+    "used_for": "Пустая бутылка, ключевой объект вины",
+    "replacement_hint": "empty alcohol bottle low poly"
+  },
+  {
+    "asset_id": "MOD_bathtub",
+    "file": "assets/models/bathtub.obj",
+    "type": "model",
+    "used_for": "Ванна как место тяжёлого воспоминания",
+    "replacement_hint": "old bathtub low poly dirty"
+  },
+  {
+    "asset_id": "MOD_anna_shadow",
+    "file": "assets/models/anna_shadow.obj",
+    "type": "model",
+    "used_for": "Силуэт Анны при высоком безумии/вине",
+    "replacement_hint": "female ghost silhouette low poly transparent plane"
+  }
+]
